@@ -1,0 +1,5 @@
+{
+	"name": "Aptus-WebRTC Server",
+	"description": "A server side element to broker connections between webrtc clients.",
+	"website": "https://aptus.com.au/"
+}
